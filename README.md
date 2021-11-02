@@ -1,7 +1,7 @@
 # Alpenglow_AngryStormCloud
 A cute little angry cloud, designed for OSHPark After Dark PCBs, with self-flashing yellow LEDs
 
-Avaliable on Tindie or out Alpenglow website!
+You can buy this kit on Tindie or our website
 https://www.tindie.com/products/alpenglow/angry-storm-cloud-soldering-kit/
 https://www.alpenglowindustries.com/store/p9/Angry_Storm_Cloud_Soldering_Kit.html#/
 
