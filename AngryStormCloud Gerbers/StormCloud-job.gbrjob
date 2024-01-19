@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "(6.0.4)"
     },
-    "CreationDate": "2024-01-19T14:59:17-08:00"
+    "CreationDate": "2024-01-19T15:42:12-08:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -60,11 +60,6 @@
       "Path": "StormCloud-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
-    },
-    {
-      "Path": "StormCloud-User_Comments.gbr",
-      "FileFunction": "Other,User",
-      "FilePolarity": "Positive"
     },
     {
       "Path": "StormCloud-Edge_Cuts.gbr",
