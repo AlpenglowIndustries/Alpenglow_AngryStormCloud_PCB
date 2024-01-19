@@ -6,7 +6,7 @@
 
   (paper "A4")
   (title_block
-    (title "RainCloud Blinky")
+    (title "Angry Storm Cloud")
   )
 
   (layers
@@ -6686,6 +6686,9 @@
   )
   (gr_text "-" (at 113.92 115.869) (layer "B.SilkS") (tstamp d82832b6-3af9-4e48-87b1-314d2fca1747)
     (effects (font (size 0.889 0.889) (thickness 0.15)) (justify mirror))
+  )
+  (gr_text "PCB Specifications:\n1. 1 oz Cu, FR-4\n2. 2 layers\n3. 0.063 inch / 1.6mm thick\n4. Soldermask: Black, both sides\n5. Silkscreen: White, both sides\n6. Finish: ENIG" (at 161.798 95.25) (layer "Cmts.User") (tstamp e4c50208-faff-4dc6-92f3-177bc479ae49)
+    (effects (font (size 3 3) (thickness 0.2)) (justify left))
   )
 
   (segment (start 125.476 101.345) (end 125.476 93.345) (width 0.508) (layer "B.Cu") (net 1) (tstamp 181abe7a-f941-42b6-bd46-aaa3131f90fb))

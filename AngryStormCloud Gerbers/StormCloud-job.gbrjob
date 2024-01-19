@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "(6.0.5)"
+      "Version": "(6.0.4)"
     },
-    "CreationDate": "2022-07-23T19:00:58-07:00"
+    "CreationDate": "2024-01-19T14:59:17-08:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -24,12 +24,10 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.0,
-      "PadToTrack": 0.0,
+      "PadToPad": 0.2,
+      "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
-      "MinLineWidth": 0.508,
-      "TrackToRegion": 0.508,
-      "RegionToRegion": 0.508
+      "MinLineWidth": 0.508
     }
   ],
   "FilesAttributes": [
@@ -62,6 +60,11 @@
       "Path": "StormCloud-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
+    },
+    {
+      "Path": "StormCloud-User_Comments.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
     },
     {
       "Path": "StormCloud-Edge_Cuts.gbr",
